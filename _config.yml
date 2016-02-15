@@ -41,7 +41,7 @@ timezone:      null
 title: 随笔
 subTitle: 思考，实践
 description: 这里记录了平时的思考。
-url: http://localhost:4000
+url: "http://pickstone78.github.io"
 feed: /atom.xml
 
 #菜单配置
